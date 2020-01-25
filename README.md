@@ -5,4 +5,4 @@ an app that find what other put's
  the website can may use cookie or something else.
  
  To download
- <a href="https://github.com/Neo0698/info2/raw/master/app-release.apk">Download app</a>
+ <a href="https://github.com/Neo0698/info2/raw/master/app-release.apk">Download app for android phone</a>
