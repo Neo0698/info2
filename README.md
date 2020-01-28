@@ -18,9 +18,9 @@ To do a great post you need to know really basic html. This his an exemple of a 
 
 
 In this exemple i answer to obvious question that a user can ask, for exemple the exemple before answer the question
-  -new macbook
-  -new android phone
-  -new iphone
-  -technologie instagram account
-  -microcoder
+  <p>-new macbook</p>
+  <p>-new android phone</p>
+  <p>-new iphone</p>
+  <p>-technologie instagram account</p>
+  <p>-microcoder</p>
 this are all the question that someone can ask and we can find the same text in the post so the programme can show your post we an user ask all those question.
