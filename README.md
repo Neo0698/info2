@@ -6,7 +6,7 @@ an app that find what other put's
  
  To download
  <a href="https://github.com/Neo0698/info2/raw/master/app-release.apk">Download app for android phone</a>
-
+<image href="https://github.com/Neo0698/info2/blob/master/html.PNG">
 
 **how info works?**
 info is lots of complex algorith that found a websit if you put only the websit name. But what happens if you ask a phrase. The programme will found in his data if someone have created a post with your information.
@@ -14,7 +14,7 @@ info is lots of complex algorith that found a websit if you put only the websit 
 **But how to do good post to help more people**
 To do a great post you need to know really basic html like the fonction 
 like if you want to a great post on a instagram count you can do
-<pre class="brush: html line-numbers language-html"><code class="html tag start-tag">  """<a href="https://www.instagram.com/microcoder/">instagram microcoder</a>> a technologie instagram account that talks about new macbooks, new android phones, new iphone"""</code></pre>
+
 
 In this exemple i answer to obvious question that a user can ask, for exemple the exemple before answer the question
   -new macbook
