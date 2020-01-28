@@ -6,3 +6,20 @@ an app that find what other put's
  
  To download
  <a href="https://github.com/Neo0698/info2/raw/master/app-release.apk">Download app for android phone</a>
+
+
+**how info works?**
+info is lots of complex algorith that found a websit if you put only the websit name. But what happens if you ask a phrase. The programme will found in his data if someone have created a post with your information.
+
+**But how to do good post to help more people**
+To do a great post you need to know really basic html like the fonction 
+like if you want to a great post on a instagram count you can do
+<![CDATA[Your < <a href="https://www.instagram.com/microcoder/">instagram microcoder a technologie instagram account that talks about new macbooks, new android phones, new iphone> here]]>
+
+In this exemple i answer to obvious question that a user can ask, for exemple the exemple before answer the question
+  -new macbook
+  -new android phone
+  -new iphone
+  -technologie instagram account
+  -microcoder
+this are all the question that someone can ask and we can find the same text in the post so the programme can show your post we an user ask all those question.
