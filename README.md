@@ -1,9 +1,9 @@
 # info2 BETA
-an app that find what other put's
- Every one can put what they want about a subject it will be check to see if it's not ***rasicme or fake news*** and after everyone that search for the same subject will found it
- what you search stay secret no one ***in your side*** can know what you have search when our use you app except if you click on a link
- because the website can may use cookie or something else.
- 
+hie and thanks to have some interest for this app please read this paragraph. in this paragraph i will explain you this app and in wich way we think that this app is usefull.
+So firstly this app is a webbrowser combine with a search engine, but it's not only a search engine or a webbrowser it's also a social network, know you are asking our self why we have made an app that a search engine, a webbrower and a social network, let us explain.
+
+Search engine find website but often if yyou look for information the website belongs to big company but we thought that is it not better that not only big company could express their opinion but every one. for us the idear is good but we add problem how to put the most interesting post before or delet the post where they are fake news or rasicime. To do that we use AI.
+**I hope that you think that the idear is good, And thanks for installing it with the link underneist**
  To download
  <a href="https://github.com/Neo0698/info2/raw/master/app-release.apk">Download app for android phone</a>
 
