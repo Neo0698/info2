@@ -10,7 +10,7 @@ Search engine find website but often if yyou look for information the website be
 
 **how info works?**
 info is lots of complex algorith that found a websit if you put only the websit name. But what happens if you ask a phrase. The programme will found in his data if someone have created a post witch contains your information and class it.
-
+<image src="https://github.com/Neo0698/info2/blob/master/slide.png">
 **But how to do good post to help more people**
 To do a great post you need to know really basic ***html***. This his an exemple of a post for my instagram account
 
