@@ -14,7 +14,7 @@ info is lots of complex algorith that found a websit if you put only the websit 
 
 **But how to do good post to help more people**
 <image src="https://github.com/Neo0698/info2/blob/master/slide.png">
- <p>firstly slide our finger to access to the second bar where you can add our opinion.</p>
+ <p>firstly slide our finger to access to the second bar where you can add our opinion(like on the picture below).</p>
  
  
  <p>Secondly</p>
