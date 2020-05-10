@@ -9,7 +9,8 @@ Search engine find website but often if you look for information the website bel
  <p><a href="https://github.com/Neo0698/info2/raw/master/app-release.apk">Download app for android phone</a></p>
 
 
-<p></p>**how info works?**
+**how info works?**
+<p></p>
 info is lots of complex algorith that found a websit if you put only the websit name. But what happens if you ask a phrase. The programme will found in his data if someone have created a post witch contains your information and class it.
 
 **But how to do good post to help more people**
