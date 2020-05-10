@@ -1,8 +1,9 @@
 # info2 V1
+
 Hie and thanks to have some interest for this app we advise you to read this paragraph. in this paragraph i will explain you how  this app work and in wich way we think that this app is usefull.<p></p>
 So firstly this app is a webbrowser combine with a search engine, but it's not only a search engine or a webbrowser it's also a social network, know you are asking our self why we have made an app that a search engine, a webbrower and a social network, let us explain.
 **I hope that you think that the idear is good, And thanks for installing it with the link underneist**
- To download:
+To download the app:
  <p><a href="https://github.com/Neo0698/info2/raw/master/app-release.apk">Download app for android phone</a></p>
 
 
