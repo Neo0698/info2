@@ -1,3 +1,5 @@
+To download the app:
+ <p><a href="https://github.com/Neo0698/info2/raw/master/app-release.apk">Download app for android phone</a></p>
 # info2 V1
 
 Hie and thanks to have some interest for this app we advise you to read this paragraph. in this paragraph i will explain you how  this app work and in wich way we think that this app is usefull.<p></p>
